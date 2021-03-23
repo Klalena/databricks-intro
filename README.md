@@ -1,6 +1,8 @@
 
 # Introduction to Databricks
-Use the labs in this repo to get started with Spark in Azure Databricks.
+For this project I completed a lab on Analyzing Data with Spark in Azure Databricks. 
+
+To get started with Spark in Azure Databricks.
 
 Start by following the [Setup Guide](Setup%20Guide.pdf) to prepare your Azure environment and download the [labfiles](Databricks_Labs.zip) used in the lab exercises. Then complete the labs in the following order:
 1. [Lab 1 - Getting Started with Spark](Lab%201%20-%20Getting%20Started%20with%20Spark.pdf). In this lab you'll learn how to provision a Spark cluster in an Azure Databricks workspace, and use it to analyze data interactively using Python or Scala.
@@ -9,3 +11,5 @@ Start by following the [Setup Guide](Setup%20Guide.pdf) to prepare your Azure en
 4. [Lab 4 - Introduction to Machine Learning](Lab%204%20-%20Introduction%20to%20Machine%20Learning.pdf). In this lab you'll get started with machine learning by using Spark to train and evaluate a classification model.
 
 If you want to learn more about Machine Learning in Databricks, take a look at [Machine Learning with Databricks](https://aka.ms/dbml)
+
+Reference: xhttps://microsoftlearning.github.io/databricks-intro/
